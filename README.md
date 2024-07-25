@@ -15,8 +15,6 @@ A Python-based NLP project for processing and analyzing large text inputs using 
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Technologies](#technologies)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 The NLP Text Chunking and Processing project is designed to overcome the challenges associated with analyzing and processing large volumes of text data using state-of-the-art Language Models (LLMs) like GPT. Many LLMs have token limits that restrict the amount of text they can process in a single operation. This project addresses this limitation by implementing an intelligent text splitting and processing pipeline.
@@ -94,10 +92,3 @@ By bridging the gap between large text inputs and the token limitations of advan
 - [OpenAI API](https://openai.com/)
 - [python-dotenv](https://github.com/theskumar/python-dotenv)
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
